@@ -1,14 +1,14 @@
 {
 	"name" : "form",
-	"version" : "0.1.2",
+	"version" : "0.2.0",
 	"description" : "Form processor for filter and validation form data",
 	"keywords": ["form"],
 	"author" : "Vadim M. Baryshev <vadimbaryshev@gmail.com>",
 	"repository" : { "type" : "git", "url" : "https://github.com/baryshev/form.git" },
 	"main" : "index",
 	"dependencies": {
-		"validator": ">= 0.2.8",
-		"async": ">= 0.1.15"
+		"validator": ">= 0.4.9",
+		"async": ">= 0.1.22"
 	},
-	"engines" : { "node": ">= 0.2.0" }
+	"engines" : { "node": ">= 0.2.2" }
 }

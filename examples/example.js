@@ -4,7 +4,7 @@ var fields = {
 	text: [
 		form.filter(form.Filter.trim),
 		form.validator(form.Validator.notEmpty, 'Empty text'),
-		form.validator(form.Validator.len, 'Bad text length', 30, 1000)
+		form.validator(form.Validator.len, 30, 1000, 'Bad text length')
 	],
 	name: [
 		form.filter(form.Filter.trim),
