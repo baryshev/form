@@ -1,6 +1,6 @@
 {
 	"name" : "form",
-	"version" : "0.2.2",
+	"version" : "0.2.3",
 	"description" : "Form processor for filter and validation form data",
 	"keywords": ["form"],
 	"author" : "Vadim M. Baryshev <vadimbaryshev@gmail.com>",
