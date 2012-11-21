@@ -1,4 +1,3 @@
-[![build status](https://secure.travis-ci.org/baryshev/form.png)](http://travis-ci.org/baryshev/form)
 # About 
 Form processor for filter and validation form data.
 
